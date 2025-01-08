@@ -87,11 +87,7 @@ I am a passionate Software Development Engineer with over three years of apprent
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohamadAboHilal&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
