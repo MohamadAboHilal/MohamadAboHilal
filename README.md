@@ -36,11 +36,7 @@ I am a passionate Software Development Engineer with over three years of apprent
 - ⚡ Fun fact: Gaming isn’t just a hobby; it’s my full-time passion and part-time obsession. 😎🎮  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
