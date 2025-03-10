@@ -27,7 +27,7 @@ I am a passionate Software Development Engineer with over three years of apprent
 - 🔭 I’m currently attending a Bootcamp at WBS Coding School 👨‍💻  
   
 
-- 🌱 I’m currently React.js and Express.js with Gen AI Integeration  
+- 🌱 I’m currently learning React.js and Express.js with Gen AI Integeration  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
