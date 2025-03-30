@@ -1,4 +1,4 @@
-## I'm Mohamad, a junior Full-Stack Web Developer, currently attending a bootcamp! 🚀  
+## I'm Mohamad, a junior Full-Stack Web Developer! 🚀  
   
 
 <a href="https://linkedin.com/in/Mohamad Abo Hilal" target="_blank">
@@ -14,8 +14,9 @@
 
 
 
-### Glad to see you here!  
-I am a passionate Software Development Engineer with over three years of apprenticeship experience in building innovative software solutions. Skilled in JavaScript, React, Node.js, and database management, I thrive on solving complex problems and creating user-centric applications. Currently enhancing my full-stack expertise at WBS Coding School, I aim to contribute to impactful projects that leverage cutting-edge technologies like AI and cloud computing, driving growth and innovation in the tech industry.  
+### I am a passionate Software Development Engineer with over three years of apprenticeship experience in building innovative software solutions. Recently, I completed my full-stack web development bootcamp at WBS Coding School, where I honed my skills in JavaScript, React, Node.js, and database management. I thrive on solving complex problems and developing user-centric applications.
+
+Originally from Syria, I have been living in Berlin, Germany, for nearly six years. I am fluent in German, English, and Arabic, my mother tongue. Beyond coding, my passion lies in gaming, puzzles, and anything that challenges the mind and stimulates critical thinking. I am eager to contribute to impactful projects that leverage cutting-edge technologies like AI and cloud computing, driving growth and innovation in the tech industry.  
   
 
 <br/>  
@@ -24,7 +25,7 @@ I am a passionate Software Development Engineer with over three years of apprent
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently attending a Bootcamp at WBS Coding School 👨‍💻  
+- 🔭 I’m currently inhancing my skills in Full-Stack Web Development👨‍💻  
   
 
 - 🌱 I’m currently learning React.js and Express.js with Gen AI Integeration  
