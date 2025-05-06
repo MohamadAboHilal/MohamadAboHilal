@@ -15,8 +15,6 @@
 
 
 ### I am a passionate Software Development Engineer with over three years of apprenticeship experience in building innovative software solutions. Recently, I completed my full-stack web development bootcamp at WBS Coding School, where I honed my skills in JavaScript, React, Node.js, and database management. I thrive on solving complex problems and developing user-centric applications.
-
-### Originally from Syria, I have been living in Berlin, Germany, for nearly six years. I am fluent in German, English, and Arabic, my mother tongue. Beyond coding, my passion lies in gaming, puzzles, and anything that challenges the mind and stimulates critical thinking. I am eager to contribute to impactful projects that leverage cutting-edge technologies like AI and cloud computing, driving growth and innovation in the tech industry.  
   
 
 <br/>  
@@ -32,9 +30,6 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: Gaming isn’t just a hobby; it’s my full-time passion and part-time obsession. 😎🎮  
 
 
 </table>  
