@@ -14,7 +14,7 @@
 
 
 
-### I am a passionate Software Development Engineer with over three years of apprenticeship experience in building innovative software solutions. Recently, I completed my full-stack web development bootcamp at WBS Coding School, where I honed my skills in JavaScript, React, Node.js, and database management. I thrive on solving complex problems and developing user-centric applications.
+### I am a passionate Software Development Engineer with over three years of apprenticeship experience in building innovative software solutions. Recently, I completed my full-stack web development bootcamp at WBS Coding School, where I sharpened my skills in JavaScript, React, Node.js, and database management. I thrive on solving complex problems and developing user-centric applications.
   
 
 <br/>  
